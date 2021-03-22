@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "runtime": "nodejs12",
+    "source": "firebase-functions"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

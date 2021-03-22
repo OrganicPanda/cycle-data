@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# Firebase
+.firebase/
+.runtimeconfig.json
+
+# Node
+node_modules/
